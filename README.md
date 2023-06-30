@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubasrikumar&label=Profile%20views&color=0e75b6&style=flat" alt="rubasrikumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rubasri" target="blank"><img src="https://img.shields.io/twitter/follow/Rubasri07803322?logo=twitter&style=for-the-badge" alt="rubasri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rubasri07803322" target="blank"><img src="https://img.shields.io/twitter/follow/Rubasri?logo=twitter&style=for-the-badge" alt="Rubasri" /></a> </p>
 
 - 🔭 I’m currently learning on **python jupyter**
 
